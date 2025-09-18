@@ -55,7 +55,7 @@ I have over a year and half of experience auditing codebases in Solidity, Rust, 
 ### Bug bounties
 | Project | Severity | Security Report | Payout | Status
 |:--:|:--:|:--:|:--:|:--:|
-| Private Yet | Low | Private | Private | Paid
+| Private Yet | Medium | Private | Private | Paid
 
 # Private Engagements 
 
