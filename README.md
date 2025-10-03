@@ -5,7 +5,7 @@ I am a security researcher primarily focused on Web3 contracts with Solidity/Rus
 
 I have over a year and half of experience auditing codebases in Solidity, Rust, and Vyper. In addition, I've conducted several private audits and testing of smart contracts.
 
-# Cantinaxyz 
+# Cantinaxyz  
 
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security firm | Leaderboard | Payout | Language |
@@ -42,13 +42,13 @@ I have over a year and half of experience auditing codebases in Solidity, Rust, 
 # CodeHawks
 
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security form | Leaderboard | Language |
+| Contest | High risk | Medium risk | Security form | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [DEX](https://codehawks.cyfrin.io/c/2024-12-quantamm) | 0 | 1 | - | cyfrin | Solidity |
-| [Marketplace](https://codehawks.cyfrin.io/c/2023-08-sparkn) | 0 | 1 | - | Cyfrin | Solidity |
-| [RWA](https://codehawks.cyfrin.io/c/2025-02-raac) | 0 | 1 | - | - | Solidity |
-| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | 1 | - | Cyfrin | Solidity |
-| [Alchemix](https://codehawks.cyfrin.io/c/2024-12-alchemix) | - | 0 | 1 | Cyfrin | Solidity |
+| [DEX](https://codehawks.cyfrin.io/c/2024-12-quantamm) | 0 | 1 | - | cyfrin | $300 | Solidity |
+| [Marketplace](https://codehawks.cyfrin.io/c/2023-08-sparkn) | 0 | 1 | - | Cyfrin | $3 | Solidity |
+| [RWA](https://codehawks.cyfrin.io/c/2025-02-raac) | 0 | 1 | - |  | - | Solidity |
+| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | 1 | - | Cyfrin | $4 | Solidity |
+| [Alchemix](https://codehawks.cyfrin.io/c/2024-12-alchemix) | - | 0 | 1 | Cyfrin | $10 | Solidity |
 
 # Immunefi 
 
