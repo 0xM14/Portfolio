@@ -1,12 +1,22 @@
 
 
 # About 0xMSF
-I am a security researcher primarily focused on Web3 contracts with Solidity/Rust/Golang codebases.
+I am a security researcher primarily focused on Web3 contracts with Solidity/Rust/Golang codebases. My main focus has been on bug bounties.
 
 I have over a year and half of experience auditing codebases in Solidity, Rust, and Vyper. In addition, I've conducted several private audits and testing of smart contracts.
 
-# Cantinaxyz  
 
+
+# Immunefi 
+### Bug bounties
+| Project | Severity | Security Report | Payout | Status
+|:--:|:--:|:--:|:--:|:--:|
+| Private Yet | High | Private | $20,000 | Paid
+| Private Yet | Critical | Private | $5,000 | Paid
+| Private Yet | Critical | Private | $16,000 | Paid
+
+
+# Cantinaxyz  
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security firm | Leaderboard | Payout | Language |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -50,18 +60,9 @@ I have over a year and half of experience auditing codebases in Solidity, Rust, 
 | [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | 1 | - | Cyfrin | $4 | Solidity |
 | [Alchemix](https://codehawks.cyfrin.io/c/2024-12-alchemix) | - | 0 | 1 | Cyfrin | $10 | Solidity |
 
-# Immunefi 
 
-### Bug bounties
-| Project | Severity | Security Report | Payout | Status
-|:--:|:--:|:--:|:--:|:--:|
-| Private Yet | Medium | Private | Private | Paid
 
-# Private Engagements 
 
-### Bug bounties
-| Project | Severity | Security Report | Payout | Status
-|:--:|:--:|:--:|:--:|:--:|
-| Private Yet | Medium | Private | Private | -
-| Private Yet | Low | Private | Private | - 
-| Private Yet | Low | Private | Private | - 
+
+
+
