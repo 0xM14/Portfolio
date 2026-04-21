@@ -11,8 +11,8 @@ I have over a year and half of experience auditing codebases in Solidity, Rust, 
 ### Bug bounties
 | Project | Severity | Security Report | Payout | Status
 |:--:|:--:|:--:|:--:|:--:|
-| Private Yet | High | Private | $20,000 | Paid
-| Private Yet | Critical | Private | $5,000 | Paid
+| Private Yet | Critical | Private | $20,000 | Paid
+| Private Yet | High | Private | $5,000 | Paid
 | Private Yet | Critical | Private | $16,000 | Paid
 
 
